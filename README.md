@@ -1,6 +1,6 @@
 # PSAdmin-Scripts
 
-Professional PowerShell administration toolkits for reporting, auditing, and day-to-day operational support.
+PowerShell administration toolkits for reporting, auditing, and day-to-day operational support.
 
 ## Overview
 
